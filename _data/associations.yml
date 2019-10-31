@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: test
+  role: test
+  year: 2001 &mdash; 2010
+  url: test
+  summary: test
+
+
+- organization: test
+  role: test
+  year: 2002 &mdash; 2004
+  url: test
+  summary: test
