@@ -9,4 +9,28 @@
 
 # Digital content development and creation
 - skill: Personal Hobbies
-  description: Web design • Front-end web development • Network security • Linux system administrtion • Networking and routing • Blockchain development • HTML • JavaScript • PHP • Mysql • C • C++ • Node • NPM • Github
+-  description: Web design 
+-  description: Linux system administration (Debian & Centos)
+-  description: Server hardware setup and configuration
+-  description: Networking architecture
+-  description: Blockchain development 
+-  description: HTML 
+-  description: PHP 
+-  description: Mysql & Mariadb configuration and administration 
+-  description: C++
+-  description: Node
+-  description: Github
+-  description: Windows server administration
+-  description: Active directory 
+-  description: VMWare ESXI setup and deployment
+-  description: Xen server setup and deployment
+-  description: OpenVZ containers
+-  description: Maintain and deployment of Docker containers
+-  description: Setup and deployment of AWS servers
+-  description: Amazon S3
+-  description: VPS creation and deployments
+-  description: Openmediavault NAS creation and administration
+-  description: Opnsense firewall setup, configuration and management
+-  description: VPN setup, configuration and administration (wireguard, pptp)
+-  description: Linux email server setup, configurationa and deployments
+-  description: Apache/Nginx setup, configuration, administration and management
